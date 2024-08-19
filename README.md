@@ -18,7 +18,7 @@ Welcome to MiniLM, your gateway to the fascinating world of compact language mod
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/MiniLM.git
+   git clone https://github.com/sohrabsarabian/MiniLM-A-Compact-Language-Model-Playground.git
    cd MiniLM
    ```
 
