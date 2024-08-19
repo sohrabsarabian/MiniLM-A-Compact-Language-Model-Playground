@@ -32,6 +32,11 @@ Welcome to MiniLM, your gateway to the fascinating world of compact language mod
    - `wiki_trained_tokenizer.model`: Pre-trained SentencePiece tokenizer model
    - `wiki_trained_tokenizer.vocab`: Vocabulary file for the tokenizer
 
+📝 Note on Data Files
+
+
+Due to file size limitations on GitHub, the wiki.txt file is not included in this repository. Please download it separately in the Installation section. This file is necessary for training the model.
+
 ## 🚀 Usage
 
 Train the model with default parameters:
