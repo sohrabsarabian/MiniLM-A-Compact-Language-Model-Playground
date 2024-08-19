@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-ee4c2c)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to MiniLM, your gateway to the fascinating world of compact language models! This project offers a streamlined implementation of a small-scale Language Model (LM) with only 19 million parameters. It's designed to be an educational tool, allowing you to explore the inner workings of transformer-based language models without the need for extensive computational resources.
+Welcome to MiniLM, your gateway to the fascinating world of compact language models! This project offers a streamlined implementation of a small-scale Language Model (LM) with only 19 million parameters. It's designed to allowing you to explore the inner workings of transformer-based language models without the need for extensive computational resources.
 
 ## 🌟 Features
 
